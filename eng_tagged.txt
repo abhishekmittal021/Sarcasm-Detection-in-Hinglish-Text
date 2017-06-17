@@ -1,0 +1,11 @@
+''/'' QT/NN 
+''/'' QT/NNP ''/'' QT/NNP 
+BHAGWAN/NN 
+#/# sarcasm/NN 
+''/'' QT/NNP BHAGWAN/NNP 
+''/'' QT/NNP BHAGWAN/NNP ''/'' QT/NNP 
+wow/NN 
+wow/NN ''/'' QT/NN 
+''/'' QT/NN wow/NN 
+wow/RB #/# Sarcasm/NNP 
+are/VBP wow/NN 

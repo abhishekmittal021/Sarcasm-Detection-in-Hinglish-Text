@@ -1,0 +1,16 @@
+ï/NN ''/'' ¿/IN mere/JJ liye/JJ mere/JJ desh/NN se/FW bada/FW koi/FW religion/NN nahi/FW desh/FW hi/FW mera/FW bhagwan/FW desh/FW hi/FW mera/FW religion/NN 	NonSarcastic
+aagar/FW aap/FW mujhe/FW just/RB `/`` aashirwad/NN '/'' kahinge/FW toh/FW mera/FW life/NN main/JJ bhagwan/NN ka/FW aashirwad/FW milega/FW pls/FW uncle/NN 	NonSarcastic
+bhagwan/FW nhi/FW tuje/FW bane/FW ki/FW DUNIYA/CAPS ki/FW sabse/FW bade/FW galat/FW kiya/FW h2rs/FW krk/FW sarcasm/SAR	Sarcastic
+bhagwan/FW ap/FW bhi/FW na/TO bacche/FW ka/FW jaan/FW lenge/FW kya/FW ???/FW feeling/NN fed/VBN up/RP :/: -/: 	NonSarcastic
+are/UH bachhe/FW BHAGWAN/CAPS ka/FW rup/FW hote/FW h/FW ye/FW prove/VB krne/JJ k/NN liye/NN hum/NN CNWK/CAPS bhi/FW dekh/FW sakte/FW his/PRP$ n't/RB it/PRP wow/UH amazing/JJ ??/NN 	Sarcastic
+BHAGWAN/CAPS ke/NN liye/NN please/VB arsenal/NN se/FW mat/FW haarna/FW 	Sarcastic
+bhagwan/FW apki/FW atma/FW ko/FW shanti/FW de/FW 	NonSarcastic
+''/'' QThaha/FW ek/FW or/CC problem/NN 	NonSarcastic
+meri/JJ class/NN mai/FW larkiyaan/FW nahi/FW hain/FW thori/FW bhejdo/FW :/: p/NN ''/'' QT/NN 	NonSarcastic
+''/'' QTkuchh/NNP log/VB ek/FW roz/FW jo/FW bichad/FW jate/FW hain/FW 	NonSarcastic
+woh/FW hazaron/FW ke/FW aane/FW se/FW milte/FW nahin/FW ''/'' QT/SYM 	NonSarcastic
+''/'' QTindia/FW ke/FW sabse/FW bade/FW super/JJ stars/NNS apna/VBP ego/NN bhula/FW ke/FW ek/FW dusre/FW ke/FW gale/FW mil/FW rahe/FW hai/FW 	NonSarcastic
+#/# to/TO humari/FW akkad/FW kiss/FW baat/FW ki/FW ??/FW 	NonSarcastic
+''/'' QT/NNP #/# sarcasm/NN 	NonSarcastic
+''/'' QTptawari/NNP to/TO pagal/FW hogae/FW honge/FW :/: d/LS ak/NN to/TO #/# gujranwalastandswithik/FW uper/FW se/FW #/# inqilabinbhakkar/NN :/: d/SYM waoo/FW amazing/JJ -LRB-/-LRB- :/: ''/'' QT/NNP #/# sarcasm/NN 	NonSarcastic
+''/'' QT/FW bas/FW itna/FW happy/JJ nuff/NN ha/FW aur/FW pagal/FW ho/FW jaogi/FW zxp/FW ''/'' QT/SYM 	NonSarcastic

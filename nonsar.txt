@@ -1,0 +1,14 @@
+Mai NN ghr NN jaa VB 
+Ram NN khana NN kha VB 
+milk NN ka ADV color NN white ADJ hota VB hai VB zxp HBP
+zxn HBN
+zxp HBP
+milk NN ka ADV color NN white ADJ hota VB hai VB zxn HBN
+toh FW kya VB hya VB bgp FW klt FW
+toh FW Kya NNP VB Hya NN bgp FW klt FW
+atma FW sudh VB ho FW gyi VB
+atma FW sudh VB vft FW ho FW 
+asdf NN atma FW sudh VB ho FW gyi VB
+atma FW sudh VB ho FW gyi VB asdf NN
+tumhare JJ yhe JJ se JJ Ram NN
+''/'' QT
